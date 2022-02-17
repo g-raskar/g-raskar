@@ -6,4 +6,4 @@
 - 💬 Ask me about Azure
 
 
-Personal github profile -[geekwhocodes](https://github.com/geekwhocodes)
+Personal github profile - [geekwhocodes](https://github.com/geekwhocodes)
